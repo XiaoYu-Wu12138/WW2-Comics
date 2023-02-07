@@ -1,1 +1,1 @@
-# WW2-Comics
+# Text-Visual Link Recognition in Comics
