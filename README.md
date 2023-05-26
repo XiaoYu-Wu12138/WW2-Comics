@@ -1,5 +1,5 @@
 # Linking Entities Across Texts and Images in Comics
-<img src="Method1.png" width="800"> 
+<img src="Method1.jpeg" width="800"> 
 
 ## Updates
 * 4/2023: Updated Method1-Entity Pairs Ranking (in comics) and three csv files from ([Kaggle WW2 database](https://www.kaggle.com/datasets/ramjasmaurya/world-war-2-archive))
