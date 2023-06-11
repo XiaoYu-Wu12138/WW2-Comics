@@ -3,7 +3,9 @@
 
 ## Updates
 
-* 6/2023: Updated Entity Pairs Ranking and CLIP in naturalistic/standard settings where the images are retrieved from the test set in [Flickr30k dataset](https://github.com/BryanPlummer/flickr30k_entities)
+* 6/2023: Updated Method2-MDETR model (in comics and standard settings) 
+
+* 6/2023: Updated Entity Pairs Ranking and CLIP in naturalistic/standard settings where the images are retrieved from the test set in the [Flickr30k dataset](https://github.com/BryanPlummer/flickr30k_entities)
 
 * 5/2023: Updated Method2-CLIP model (in comics) 
 
